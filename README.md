@@ -32,4 +32,4 @@ Check out the live website here: https://staging-project.com/maju/sp24-bsse-0065
 
 1. Download or clone this repository.  
    ```bash
-   git clone https://github.com/yourusername/lunaglam.git
+   [git clone https://github.com/haniaadnan-10/LunaGlam.git]
